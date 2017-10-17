@@ -1,0 +1,44 @@
+.red{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.purple{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+}
+.yellow{
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+
+}
+.blue{
+    margin-top: 10px;
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.green{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+}
+.contenedor{
+    width: 200px;
+    height: 200px;
+
+}
+.black{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
